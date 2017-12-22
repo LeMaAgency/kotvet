@@ -50,7 +50,7 @@
         </div>
     </div>
     <div class="header-contacts container-index">
-        <div class="header-logo"><img alt="img" src="img/logo.png"></div>
+        <div class="header-logo"><img alt="img" src="<?=SITE_DIR?>assets/img/logo.png"></div>
         <div class="header-contacts-block">
             <div class="header-phone">+7 (4242) 399-199</div>
             <div class="header-account">
